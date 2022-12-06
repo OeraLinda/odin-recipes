@@ -1,0 +1,32 @@
+* {
+    background-color: lightblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ol {
+    color: red;
+}
+ul {
+    color: coral;
+}
+
+h1 {
+    color: orange;
+}
+
+h2 {
+    color: burlywood;
+}
+
+h3 {
+    color: chocolate;
+}
+
+h4 {
+    color: brown;
+}
+
+p {
+    color: yellow;
+}
+
